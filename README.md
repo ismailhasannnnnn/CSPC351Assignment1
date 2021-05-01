@@ -18,3 +18,9 @@ All members are in Section 3.
  2. Make sure you have a 'keyfile.txt' with whatever you'd like to send to the receiver program. 
  3. Run the receiver first using the command 'sudo ./receiver'.
  4. Run the sender program, using the keyfile as a parameter. E.g. 'sudo ./sender keyfile.txt'
+
+# Extra Credit
+-N/A
+
+## Additional Information
+-None.
