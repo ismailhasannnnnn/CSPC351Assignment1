@@ -19,6 +19,11 @@ All members are in Section 3.
  3. Run the receiver first using the command 'sudo ./receiver'.
  4. Run the sender program, using the keyfile as a parameter. E.g. 'sudo ./sender keyfile.txt'
 
+## Contribution
+
+The overall work of this project was split pretty evenly. Nevan and Enrico spent their time working mainly on the pseudocode and charts, while Ismail and Edgar
+spent their time running through all the code, and making sure logic, syntax, and functionality was all proper. 
+
 # Extra Credit
 -N/A
 
